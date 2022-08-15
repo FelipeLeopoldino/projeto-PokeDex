@@ -18,11 +18,11 @@ A Pokédex é um dispositivo do universo Pokémon capaz de buscar informações 
 
 ## Tecnologias do Projeto
 
--HTML5
+-HTML
 
 -CSS
 
--Javascript
+-JavaScript
 
 -Consumo de API 
 
