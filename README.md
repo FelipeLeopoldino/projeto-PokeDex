@@ -1,29 +1,31 @@
-Pokédex
+<a href="https://pokedex-felipeleopoldino.netlify.app/">Pokédex</a>
+
+## 💻 Pokédex
 A Pokédex é um dispositivo do universo Pokémon capaz de buscar informações dos pokémons que são avistados e capturados pelos personagens do universo pokémon.
 
 
-Funcionalidades
+### Funcionalidades
 
 
- Buscar pokémon por número ou nome;
+- [x] **Buscar pokémon por número ou nome**;
 
- Botão de anterior e próximo;
+- [x] **Botão de anterior e próximo**;
 
- Painel que mostra sprite do Pokémon buscado.
+- [x] **Painel que mostra sprite do Pokémon buscado**.
 
- Adapta-se à tela de celular.
-
-
-Tecnologias do Projeto
-
-HTML5
-CSS
-Javascript
-PokeAPI
+- [x] **Adapta-se à tela de celular**.
 
 
+## Tecnologias do Projeto
 
-Status
+-HTML5
+-CSS
+-Javascript
+-Consumo de API 
 
 
- Concluído
+
+## Status
+
+
+- [x] Concluído
